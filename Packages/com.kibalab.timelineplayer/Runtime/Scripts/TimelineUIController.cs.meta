@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b5882739ea094fe4480f69a63c8e19f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _udonSharpBackingUdonBehaviour: {instanceID: 0}
+  - player: {instanceID: 0}
+  - lengthLabel: {instanceID: 0}
+  - currentLabel: {instanceID: 0}
+  - timeSlider: {instanceID: 0}
+  - playPauseIcon: {instanceID: 0}
+  - playSprite: {fileID: 21300000, guid: cedc113a33a2a8c4693e8f95e3bb4163, type: 3}
+  - pauseSprite: {fileID: 21300000, guid: 75e9812d9e8486f4fabac0396099c595, type: 3}
+  - loopIcon: {instanceID: 0}
+  - loopOnSprite: {instanceID: 0}
+  - loopOffSprite: {instanceID: 0}
+  - displayModeLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+{
+  "name": "com.kibalab.timelineplayer",
+  "displayName": "com.kibalab.timelineplayer",
+  "version": "0.1.0",
+  "description": "Play or control PlayableDirector through UdonSharp in the world.",
+  "gitDependencies": {},
+	"vpmDependencies" : {
+		"com.vrchat.worlds" : "3.1.x"
+	},
+	"samples" : [
+		{
+			"displayName" : "Prefabs",
+			"description" : "Usable Prefabs",
+			"path" : "Samples~/Prefabs"
+		}
+	],
+  "author": {
+    "name": "KIBA",
+    "email": "root@kiba.red",
+    "url": "https://vpm.kiba.red"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "F:\\Unity\\VRCTimelinePlayer\\Packages\\com.kibalab.timelineplayer",
+  "hideInEditor": false
+}
